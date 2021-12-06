@@ -1,0 +1,48 @@
+.color-container {
+  width: 150px;
+  height: 100px;
+}
+
+.primary-strong {
+  background: #12115c;
+}
+
+.primary-light {
+  background: #695cd4;
+}
+
+.gray-strong {
+  background: #5c718e;
+}
+
+.gray-light {
+  background: #c6cdd7;
+}
+
+.violet-strong {
+  background: #5a52a5;
+}
+
+.violet-light {
+  background: #f4f2ff;
+}
+
+.red-strong {
+  background: #f95738;
+}
+
+.red-normal {
+  background: #fd5b71;
+}
+
+.red-light {
+  background: #ff8383;
+}
+
+.yellow-normal {
+  background: #fdd05b;
+}
+
+.yellow-light {
+  background: #ffe483;
+}

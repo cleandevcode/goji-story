@@ -9,7 +9,7 @@ export const Text = ({ mode, label }) => {
     )
 }
 
-Text.prototype = {
+Text.propTypes = {
     mode: PropTypes.oneOfType([ 'regular', 'main_heading', 'sub_heading', 'label' ]),
     label: PropTypes.string
 }
