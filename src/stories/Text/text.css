@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+
+.text-regular {
+  font-family: "Cabin";
+  font-size: 1rem;
+}
+
+.text-main-heading {
+  font-family: "Cabin";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text-sub-heading {
+  font-family: "Cabin";
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.label {
+  font-family: "Cabin";
+  font-size: 0.875rem;
+  font-weight: 400;
+}
